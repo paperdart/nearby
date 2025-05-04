@@ -1,0 +1,68 @@
+[
+ {
+   "iata": "AAL",
+   "timezone": "Europe/Copenhagen",
+   "country": "Denmark",
+   "state": "North-Denmark",
+   "city": "Aalborg",
+   "latitude": 57.09275891,
+   "longitude": 9.849243164,
+   "c2": "DK",
+   "c3": "DNK"
+ },
+ {
+   "iata": "ABQ",
+   "timezone": "America/Denver",
+   "country": "United States",
+   "state": "New Mexico",
+   "city": "Albuquerque",
+   "latitude": 35.04019928,
+   "longitude": -106.6090012,
+   "c2": "US",
+   "c3": "USA"
+ },
+ {
+   "iata": "ABV",
+   "timezone": "Africa/Lagos",
+   "country": "Nigeria",
+   "state": "FCT",
+   "city": "Abuja",
+   "latitude": 9.006790161,
+   "longitude": 7.263169766,
+   "c2": "NG",
+   "c3": "NGA"
+ },
+ {
+   "iata": "AKL",
+   "timezone": "Pacific/Auckland",
+   "country": "New Zealand",
+   "state": "Auckland",
+   "city": "Auckland",
+   "latitude": -37.0080986,
+   "longitude": 174.7920074,
+   "c2": "NZ",
+   "c3": "NZL"
+ },
+ {
+   "iata": "CBR",
+   "timezone": "Australia/Sydney",
+   "country": "Australia",
+   "state": "ACT",
+   "city": "Canberra",
+   "latitude": -35.30690002,
+   "longitude": 149.1950073,
+   "c2": "AU",
+   "c3": "AUS"
+ },
+ {
+   "iata": "SYD",
+   "timezone": "Australia/Sydney",
+   "country": "Australia",
+   "state": "New South Wales",
+   "city": "Sydney",
+   "latitude": -33.94609833,
+   "longitude": 151.177002,
+   "c2": "AU",
+   "c3": "AUS"
+ }
+]

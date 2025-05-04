@@ -1,0 +1,52 @@
+[
+  {
+    "name": "230 Fifth Rooftop Bar",
+    "type": "Penthouse Bar",
+    "start": "29/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 40.744247,
+    "longitude": -73.988747,
+    "address": "1150 Broadway, New York, NY 10001, United States"
+  },
+  {
+    "name": "The Churchill Arms",
+    "type": "Traditional Pub",
+    "start": "07/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 51.501476,
+    "longitude": -0.192013,
+    "address": "119 Kensington Church St, London W8 7LN, United Kingdom"
+  },
+  {
+    "name": "Zum Augustiner",
+    "type": "Beer Hall",
+    "start": "23/08/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 48.1386,
+    "longitude": 11.5683,
+    "address": "Neuhauser Str. 27, 80331 München, Germany"
+  },
+  {
+    "name": "El Tigre Sidra Bar",
+    "type": "Tapas Bar",
+    "start": "11/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 40.422,
+    "longitude": -3.701,
+    "address": "Calle de las Infantas, 30, 28004 Madrid, Spain"
+  },
+  {
+    "name": "Bar Benfiddich",
+    "type": "Cocktail Bar",
+    "start": "01/09/2025",
+    "delivery": "in person",
+    "status": "open",
+    "latitude": 35.6938,
+    "longitude": 139.7034,
+    "address": "9F Yamatoya Bldg, 1-13-7 Nishi-Shinjuku, Tokyo, Japan"
+  }
+]
