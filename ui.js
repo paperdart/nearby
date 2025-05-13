@@ -45,7 +45,7 @@ export function createEventSearch(locationText, onSearch) {
   const iconContainer = document.createElement('div');
   iconContainer.className = 'search-icon-container';
   const icon = document.createElement('img');
-  icon.src = '/E0A9.svg';
+  icon.src = './E0A9.svg';
   icon.alt = 'Location';
   icon.className = 'search-location-icon';
   iconContainer.appendChild(icon);
