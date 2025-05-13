@@ -67,7 +67,7 @@ class LocalTraining {
    * @param {number} limit - Number of events to return
    * @returns {Array} - Array of matching events with distances
    */
-  async searchEvents(searchText, userLocation, limit = 3) {
+  async searchEvents(searchText, userLocation, limit = 6) {
     await this.waitForLoad();
 
     const useMetric = !['US', 'GB'].includes(userLocation.c2);
