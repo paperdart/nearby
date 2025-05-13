@@ -111,7 +111,7 @@ class LocalTraining {
    * @param {number} limit - Number of events to return
    * @returns {Array} - Array of events with distances
    */
-  async getClosestEvents(limit = 3) {
+  async getClosestEvents(limit = 6) {
     const userLocation = await this.locationFast();
     return this.searchEvents('', userLocation, limit);
   }
