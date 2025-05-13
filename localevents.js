@@ -19,8 +19,8 @@ class LocalTraining {
     try {
       console.log('Initializing LocalTraining library...');
       const [locationsResponse, classesResponse] = await Promise.all([
-        fetch('/locations.json'),
-        fetch('/classes.json')
+        fetch('./locations.json'),
+        fetch('./classes.json')
       ]);
       
       this.responseHeaders = {};
