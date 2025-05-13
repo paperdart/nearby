@@ -1,4 +1,4 @@
-import LocalTraining from '/localevents.js'
+import LocalTraining from './localevents.js'
 import { createLoadingIndicator, renderLocationData, renderNearbyEvents, createEventSearch } from './ui.js'
 
 // Initialize the application
